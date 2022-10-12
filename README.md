@@ -1,5 +1,5 @@
 # Weather-Command-Line-App
-Simple NodeJS command line app for weather, generating data by connecting to the API URL, reading and parsing the data and printing the message to the console as Celsius degrees at the moment.
+Simple NodeJS command line app for weather, searching for a given city name (location) as argument in the command line, thus generating data by connecting to the API URL, reading and parsing the data and printing the message to the console as Celsius degrees at the moment.
 
 ### How To Use
 
